@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Value Stream Management GUI",
-    "section": "",
-    "text": "Table of contents\n\nValue Stream Management GUI"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Value Stream Management GUI",
@@ -19,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Value Stream Management GUI",
+    "section": "",
+    "text": "Table of contents\n\nValue Stream Management GUI"
   }
 ]
